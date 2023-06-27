@@ -981,3 +981,6 @@ my-blog/package.json
 my-blog/package-lock.json
 my-blog/package.json
 my-blog-backend/node_modules/.package-lock.json
+my-blog-backend/credentials.json
+my-blog-backend/node_modules/
+my-blog/node_modules
