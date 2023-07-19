@@ -986,3 +986,4 @@ my-blog-backend/node_modules/
 my-blog/node_modules
 build
 credentials.json
+my-blog-backend/node_modules
